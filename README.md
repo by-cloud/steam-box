@@ -29,7 +29,16 @@ English | [简体中文](./README_zh.md)
 1. For updating a markdown file，add comments to the place where you want to update in the markdown file.
    ```markdown
     <!-- steam-box start -->
-    <!-- steam-box end -->
+#### <a href="https://gist.github.com/c273adab7aadea9bdb32fa2ea33b1e30" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Monster Hunter: World            🕘 132 hrs 38 mins
+💻 Wallpaper Engine                 🕘 89 hrs 4 mins
+🎮 Muv-Luv                          🕘 43 hrs 55 mins
+🌏 Sid Meier's Civilization V       🕘 25 hrs 56 mins
+🎮 Chinese Parents                  🕘 16 hrs 29 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
     
    ```
 
